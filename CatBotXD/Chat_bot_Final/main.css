@@ -1,0 +1,100 @@
+
+body{
+    background: #d7eadd;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #d7eadd,#498553);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #498553, #d7eadd); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ 
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;   
+}
+
+.boton_bot{
+    margin: 10px;
+}
+
+.amazonia{
+    margin: 50px;
+    
+}
+
+.sierra{
+    margin: 30px;
+    margin-left: 100px;
+}
+
+.jumbotron{
+    margin: 30px;
+    padding: 30px;
+    border-radius: 20px;
+    background-color: #fff;
+}
+
+.carousel-inner{
+    border-radius: 20px;
+    margin: auto;
+    margin-bottom: 50px;
+    width: 75%;
+    height: 500px;
+}
+
+.card{
+    margin-top: 20px;
+    width: 20%;
+    float: left;
+    margin-left: 25px;
+}
+
+.card img{
+    width: 286px;
+    height: 200px;
+}
+
+.container2{
+    width: 100%;
+    background-color: #a3a8bb;
+    border-radius: 15px;
+    padding: 30px;
+}
+
+.container2 p{
+    align-content: left;
+}
+
+.imagen_cos{
+    margin: 30px;
+    left: 650px;
+    float: right; 
+}
+
+.imagen_cos img{
+    border-radius: 20px;
+    width: 450px;
+    height: 300px;
+}
+
+.btn{
+    background-color: #0e9e2c;
+    border: #0e9e2c;
+}
+
+.carnet2{
+    margin-top: 300px;
+    margin-bottom: 50px;
+    float: left;
+}
+
+.carnet4{
+    margin-top: 300px;
+    float: left;
+}
+
+footer{
+    margin-top: auto;
+}
+
+.jumbotron1{
+    margin: 10px;
+    padding: 10px;
+    border-radius: 0px;
+    background-color: #fff;
+}
